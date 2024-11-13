@@ -4,12 +4,12 @@
 
 - Variáveis
 - Operadores
-- Laços de repetição
 - Estruturas de decisões
+- Função
 
 ## Objetivo
 
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+Foram criadas duas variáveis para armazenar o *nome* e a *quantidade de experiência (XP) de um herói*, depois foram utilizadas uma estrutura de decisão para apresentar alguma das mensagens abaixo:
 
 Se XP for menor do que 1.000 = Ferro
 Se XP for entre 1.001 e 2.000 = Bronze
